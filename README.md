@@ -2,7 +2,7 @@
 
 **`Front-end Developer and UX Designer `**
 
-I’m Caena, front-end developer in training, also building Python back-end skills to become a full-stack developer. I hold degrees in UX/UI Design and Administration & Financial Management, and I’m passionate about web development, design, and technology. You can explore my UX/UI portfolio on [Behance](https://www.behance.net/caenamendest) for a closer look at my design work.
+I’m Caena, a front-end developer in training, also expanding my Python back-end skills to grow into a full-stack developer. I completed a UX/UI Design bootcamp and hold a degree in Administration & Financial Management. I’m passionate about web development, design, and technology, and I enjoy creating user-friendly, visually engaging digital experiences. You can explore my UX/UI portfolio on [Behance](https://www.behance.net/caenamendest) for a closer look at my design work.
 
    <p align="left">
   <a href="https://www.linkedin.com/in/caena-mendes-954b391b6/">
@@ -55,6 +55,14 @@ title="TYPESCRIPT"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+
+<img align="left"
+alt="NEXTJS"
+title="NEXT.JS"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
 />
 
 <img align="left"
